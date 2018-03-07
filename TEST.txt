@@ -3,3 +3,7 @@ http://file.allitebooks.com/20171126/Pro%20TypeScript,%202nd%20Edition.pdf
 http://file.allitebooks.com/20150518/Pro%20ASP.NET%20MVC%205%20Platform.pdf
 http://file.allitebooks.com/20150905/ASP.NET%20Web%20API%202%20Recipes.pdf
 http://file.allitebooks.com/20150518/Practical%20ASP.NET%20Web%20API.pdf
+http://file.allitebooks.com/20170304/Mastering%20Windows%20Presentation%20Foundation.pdf
+http://file.allitebooks.com/20150519/Pro%20WPF%204.5%20in%20C-,%204th%20Edition.pdf
+http://file.allitebooks.com/20150720/Pro%20XAML%20with%20C--%20From%20Design%20to%20Deployment%20on%20WPF,%20Windows%20Store,%20and%20Windows%20Phone.pdf
+http://file.allitebooks.com/20170203/Pro%20Angular,%202nd%20Edition.pdf
