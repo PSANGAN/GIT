@@ -1,1 +1,5 @@
 Links
+
+Install-Package Prism -Version 4.0.0
+Install-Package Prism.UnityExtensions -Version 4.0.0
+Install-Package CommonServiceLocation -Version 1.0.0
