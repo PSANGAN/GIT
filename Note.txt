@@ -1,1 +1,2 @@
-http://file.allitebooks.com/20150626/Beginning%20jQuery%202%20for%20ASP.NET%20Developers.pdf
+http://file.allitebooks.com/20150731/JavaScript%20with%20Promises.pdf
+http://file.allitebooks.com/20170805/RxJS%20in%20Action.pdf
